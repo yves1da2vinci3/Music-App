@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.grabient {
+    background-color: #bf7ce8;
+    background-image: linear-gradient(0deg, #bf7ce8 0%, #e9dfea 30%, #ffddab 84%);
+    
+    
+
+}
+.btnPlayGrabient {
+    background-color: #4158D0;
+background-image: linear-gradient(106deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+}
